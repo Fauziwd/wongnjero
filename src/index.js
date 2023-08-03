@@ -1,14 +1,27 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
+import ReactDOM from 'react-dom';
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import './index.css';
+import 'flowbite';
 import App from './App';
+import Invite from './menu/Invite';
+import Galeri from '../src/menu/Galeri';
+import Absen from '../src/menu/Absen';
 import reportWebVitals from './reportWebVitals';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
+ReactDOM.render(
   <React.StrictMode>
-    <App />
-  </React.StrictMode>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<App />} /> 
+        <Route path="/invite" element={<Invite />} />
+        <Route path="/galeri" element={<Galeri />} />
+        <Route path="/absen" element={<Absen />} />
+        {/* <Route path="/message" element={<Message />} />  */}
+      </Routes>
+    </BrowserRouter>
+  </React.StrictMode>,
+  document.getElementById('root') 
 );
 
 // If you want to start measuring performance in your app, pass a function

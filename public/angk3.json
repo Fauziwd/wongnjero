@@ -1,0 +1,92 @@
+[
+    {
+      "Nama": "Adam Tsabit Aqdam",
+      "NoHP": "6282219183930",
+      "Pekerjaan": "Syaikh Kibar",
+      "Status": "Lajang",
+      "Alamat": "Solo",
+      "Password": "member123",
+      "Username": "adam"
+    },
+    {
+      "Nama": "Fauzi Dwi",
+      "NoHP": "6281226250451",
+      "Pekerjaan": "Pelajar",
+      "Status": "Lajang",
+      "Alamat": "Solo",
+      "Password": "member123",
+      "Username": "fauzi"
+    },
+    {
+      "Nama": "Hilmi Sholahuddin",
+      "NoHP": "6285706156524",
+      "Pekerjaan": "Pelajar",
+      "Status": "Lajang",
+      "Alamat": "Magetan",
+      "Password": "member123",
+      "Username": "hilmi"
+    },
+    {
+      "Nama": "Haidar Khottob",
+      "NoHP": "6281291863389",
+      "Pekerjaan": "Pelajar",
+      "Status": "Lajang",
+      "Alamat": "Solo",
+      "Password": "member123",
+      "Username": "haidar"
+    },
+    {
+      "Nama": "Luqmanul Hakim",
+      "NoHP": "6282115969632",
+      "Pekerjaan": "Pelajar",
+      "Status": "Lajang",
+      "Alamat": "Tasikmalaya",
+      "Password": "member123",
+      "Username": "luqman"
+    },
+    {
+      "Nama": "Misbah Ashidqi",
+      "NoHP": "6289512628347",
+      "Pekerjaan": "Pelajar",
+      "Status": "Sold",
+      "Alamat": "Blora",
+      "Password": "member123",
+      "Username": "misbah"
+    },
+    {
+      "Nama": "Nabil Ali",
+      "NoHP": "6285156208077",
+      "Pekerjaan": "Pelajar",
+      "Status": "Lajang",
+      "Alamat": "Bekasi",
+      "Password": "member123",
+      "Username": "nabil"
+    },
+    {
+      "Nama": "Umar",
+      "NoHP": "6287739673533",
+      "Pekerjaan": "Pelajar",
+      "Status": "Lajang",
+      "Alamat": "Bima",
+      "Password": "member123",
+      "Username": "umar"
+    },
+    {
+      "Nama": "Zahid Aufaqi",
+      "NoHP": "967770468112",
+      "Pekerjaan": "Pelajar",
+      "Status": "Lajang",
+      "Alamat": "Kendal",
+      "Password": "member123",
+      "Username": "zahid"
+    },
+    {
+      "Nama": "Zaky",
+      "NoHP": "6281233757661",
+      "Pekerjaan": "Pelajar",
+      "Status": "Lajang",
+      "Alamat": "Solo",
+      "Password": "member123",
+      "Username": "zaky"
+    }
+  ]

@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "wongnjero": "kenangan-wonk-njero",
+    "kenangan-wong-njero": "kenangan-wonk-njero",
+    "default": "kenangan-wonk-njero"
+  },
+  "targets": {},
+  "etags": {}
+}
